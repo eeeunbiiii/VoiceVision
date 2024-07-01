@@ -1,4 +1,4 @@
-# VoiceVision
+# VoiceVision 👩‍💻
 2024 SW Digital Contest - AI
 
 ---
