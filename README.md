@@ -1,6 +1,6 @@
 # 🎉 VoiceVision에 오신 것을 환영합니다! 🎉
 
-![VoiceVision 로고](sandbox:/mnt/data/A_sleek_and_sophisticated_logo_design_for_the_Voic.png)
+![VoiceVision 로고](./VoiceVision.webp))
 
 ---
 
