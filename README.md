@@ -1,6 +1,6 @@
 # 🎉 VoiceVision에 오신 것을 환영합니다! 🎉
 
-![VoiceVision 로고](./VoiceVision.webp))
+![VoiceVision 로고](./VoiceVision.webp)
 
 ---
 
